@@ -1,0 +1,6 @@
+MOV C 10 
+ADD A 1 
+ADD B A 
+SUB C 1 
+NZERO C 2 
+END           

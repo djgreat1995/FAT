@@ -1,0 +1,6 @@
+C:\Users\patry\Documents\Visual Studio 2015\Projects\FAT\FAT\bin\Debug\FAT.exe.config
+C:\Users\patry\Documents\Visual Studio 2015\Projects\FAT\FAT\bin\Debug\FAT.exe
+C:\Users\patry\Documents\Visual Studio 2015\Projects\FAT\FAT\bin\Debug\FAT.pdb
+C:\Users\patry\Documents\Visual Studio 2015\Projects\FAT\FAT\obj\Debug\FAT.exe
+C:\Users\patry\Documents\Visual Studio 2015\Projects\FAT\FAT\obj\Debug\FAT.pdb
+C:\Users\patry\Documents\Visual Studio 2015\Projects\FAT\FAT\obj\Debug\FAT.csprojResolveAssemblyReference.cache
